@@ -1,0 +1,4 @@
+baseURL = "https://chelegen.github.io/"
+languageCode = "zh-Hans"
+title = "恶魔妹妹买面膜"
+theme = "ananke"
